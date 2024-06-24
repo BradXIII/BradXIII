@@ -17,38 +17,25 @@
 - Harvard CS50: Engaged with Harvard University's acclaimed introduction to computer science, honing my foundational knowledge and problem-solving skills.
 
 ## Certifications
-### ZTM (Zero to Mastery)
 - Zero to Mastery: Web3 Masterclass - Mastering Blockchain, DApps, and DAOs with practical web technology skills.
 
-### TryHackMe
-- Complete Beginner - Introduction to cybersecurity basics.
-- Pre Security - Laying the groundwork in security essentials.
-- Offensive Pentesting - A course on offensive security techniques and ethical hacking.
-- Web Fundamentals - Understanding of core web technologies and development fundamentals.
-- First Four - Completing four rooms in your first week of joining!
-- Networking Nerd - Completing the 'Network Fundamentals' module.
-- Webbed - Understands how the world wide web works.
-- World Wide Web - Completing the 'How The Web Works' module.
-- cat linux.txt - Being competent in Linux.
-- Pentesting Principles - Completing the 'Introduction to Pentesting' module.
-- 7 Day Streak - Achieving a 7-day hacking streak.
-- Introduction to Security Engineering - Completed the Security Engineer Intro room!
-- Intro to Web Hacking - Completing the 'Introduction to Web Hacking' module.
-- Burp'ed - Completing the Burp Suite module.
-- Metasploitable - Contains the knowledge to use Metasploit.
-- OWASP Top 10 - Understanding every OWASP vulnerability.
+### TRYHACKME
+- TryHackMe: Complete Beginner - Introduction to cybersecurity basics.
+- TryHackMe: Pre Security - Laying the groundwork in security essentials.
+- TryHackMe: Offensive Pentesting - A course on offensive security techniques and ethical hacking.
+- TryHackMe: Web Fundamentals - Understanding of core web technologies and development fundamentals.
 
-### Coursera
-- Google IT Support - Professional certificate in IT Support by Google.
-- What is Data Science? - A comprehensive overview of data science conducted by IBM, equipping students with the fundamental concepts and hands-on skills.
-
-### HackerRank
-- Problem Solving (Basic) - Demonstrating basic problem-solving and algorithm skills.
-- Python (Basic) - Credential recognizing foundational knowledge in Python programming.
-- JavaScript (Basic) - Proficiency in JavaScript essentials.
-- CSS - Expertise in CSS for engaging, responsive web designs.
-- SQL - Certification confirming proficiency in SQL and database management.
-- Software Engineer Intern - Verified software development skills with a focus on practical programming challenges.
+### COURSEA
+- Coursera: Google IT Support - Professional certificate in IT Support by Google.
+- Coursera: What is Data Science? - A comprehensive overview of data science conducted by IBM, equipping students with the fundamental concepts and hands-on skills.
+  
+### HACKERRANK
+- HackerRank: Problem Solving (Basic) - Demonstrating basic problem-solving and algorithm skills.
+- HackerRank: Python (Basic) - Credential recognizing foundational knowledge in Python programming.
+- HackerRank JavaScript (Basic) Certificate -Proficiency in JavaScript essentials.
+- HackerRank CSS Certificate Expertise in CSS for engaging, responsive web designs.
+- HackerRank: SQL - Certification confirming proficiency in SQL and database management.
+- HackerRank Software Engineer Intern Certificate - Verified software development skills with a focus on practical programming challenges.
 
 ## Technologies
 ### I am confident and use these on a daily basis
