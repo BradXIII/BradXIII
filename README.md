@@ -12,30 +12,35 @@
 ## My Web3 || Brave Browser Required****
 - [BRADXII.X](https://bradxiii.x)
 
-## Ongoing Courses
+## 🏃‍♂️Ongoing Courses
 - Zero to Mastery: Advancing in full-stack development for enhanced cybersecurity and software development skills.
 - Harvard CS50: Engaged with Harvard University's acclaimed introduction to computer science, honing my foundational knowledge and problem-solving skills.
 
-## Certifications
+## 🎓Certifications
 - Zero to Mastery: Web3 Masterclass - Mastering Blockchain, DApps, and DAOs with practical web technology skills.
 
-### TRYHACKME
+### 🧑‍💻TRYHACKME
 - TryHackMe: Complete Beginner - Introduction to cybersecurity basics.
 - TryHackMe: Pre Security - Laying the groundwork in security essentials.
 - TryHackMe: Offensive Pentesting - A course on offensive security techniques and ethical hacking.
 - TryHackMe: Web Fundamentals - Understanding of core web technologies and development fundamentals.
 
-### COURSEA
+### 🧑‍💻COURSEA
 - Coursera: Google IT Support - Professional certificate in IT Support by Google.
 - Coursera: What is Data Science? - A comprehensive overview of data science conducted by IBM, equipping students with the fundamental concepts and hands-on skills.
   
-### HACKERRANK
+### 🧑‍💻HACKERRANK
 - HackerRank: Problem Solving (Basic) - Demonstrating basic problem-solving and algorithm skills.
 - HackerRank: Python (Basic) - Credential recognizing foundational knowledge in Python programming.
 - HackerRank JavaScript (Basic) Certificate -Proficiency in JavaScript essentials.
 - HackerRank CSS Certificate Expertise in CSS for engaging, responsive web designs.
 - HackerRank: SQL - Certification confirming proficiency in SQL and database management.
 - HackerRank Software Engineer Intern Certificate - Verified software development skills with a focus on practical programming challenges.
+
+## 🤝 Support Me:
+<a href="https://buymeacoffee.com/bradxii" target="_blank">
+    <img src="https://img.shields.io/badge/Buy%20me%20a%20coffee-F7CA88?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee">
+</a>
 
 ## Languages
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
