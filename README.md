@@ -4,9 +4,9 @@
 - 🌍 Based in Vancouver, Canada
 - 💻 Learning computer science
 - 🎨 Passionate about music, art, travel, and creating things
-- 🏢 Working on BXII Financial Group
+- 🌟 Currently studying, building
 - 📫 How to reach me:bxii.v.1@proton.me
-- 🌍 Nationality: Jamaican 🇯🇲, Japanese 🇯🇵
+- 🌍 Nationality: 🇯🇲🇯🇵
 - 💡 Personality Type: INFJ-T
 
 ## My Web3 || Brave Browser Required****
@@ -56,8 +56,7 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) 
 ![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white) 
 ![Windows 11](https://img.shields.io/badge/Windows%2011-0078D4?style=for-the-badge&logo=windows&logoColor=white) 
-![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white) 
-![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white) 
+![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 ![Xcode](https://img.shields.io/badge/Xcode-1575F9?style=for-the-badge&logo=xcode&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=white)
 ![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-0E1128?style=for-the-badge&logo=unreal-engine&logoColor=white)
