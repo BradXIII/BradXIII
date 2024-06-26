@@ -10,7 +10,7 @@
 - 💡 Personality Type: INFJ-T
 
 ## My Web3 || Brave Browser Required****
-- [BRADXII.X](https://bradxiii.x)
+- [BRADXII.X](bradxii.x)
 
 ## 🏃‍♂️Ongoing Courses
 - Zero to Mastery: Advancing in full-stack development for enhanced cybersecurity and software development skills.
