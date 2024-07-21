@@ -10,17 +10,18 @@
 - 💡 Personality Type: INFJ-T
 
 ## My Web3 || Brave Browser Required****
-- [BRADXII.X](bradxii.x)
+- [BRADXII.X](https://ud.me/bradxii.x)
 
-## 🏃‍♂️Ongoing Courses
-- Zero to Mastery: Advancing in full-stack development for enhanced cybersecurity and software development skills.
+## 🏃‍♂️ Ongoing Courses
 - Harvard CS50: Engaged with Harvard University's acclaimed introduction to computer science, honing my foundational knowledge and problem-solving skills.
 
-## 🎓Certifications
+## 🎓 Certifications
+### 🏆 Zero to Mastery
 - Zero to Mastery: Web3 Masterclass - Mastering Blockchain, DApps, and DAOs with practical web technology skills.
+- Zero to Mastery: Complete Web Developer - Achieved comprehensive skills in full-stack development for enhanced cybersecurity and software development capabilities.
 
 ### 🧑‍💻TRYHACKME
-- TryHackMe: Complete Beginner - Introduction to cybersecurity basics.
+- TryHackMe: Introduction to cybersecurity - Introduction to cybersecurity basics.
 - TryHackMe: Pre Security - Laying the groundwork in security essentials.
 - TryHackMe: Offensive Pentesting - A course on offensive security techniques and ethical hacking.
 - TryHackMe: Web Fundamentals - Understanding of core web technologies and development fundamentals.
